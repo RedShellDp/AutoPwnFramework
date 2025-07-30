@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+</head>
+<body>
+  <h2>Welcome, {{ user }} (Role: {{ role }})</h2>
+
+  <ul>
+    {% if role == "admin" %}
+      <li><a href="/exploit">🔐 Run AutoPwn (Exploit)</a></li>
+    {% endif %}
+    <li><a href="/logout">🚪 Logout</a></li>
+  </ul>
+</body>
+</html>

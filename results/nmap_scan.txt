@@ -1,0 +1,2 @@
+Nmap Scan for 192.168.56.101
+Open Ports: 135, 139, 445

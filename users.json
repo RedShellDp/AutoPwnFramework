@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "role": "admin"
+  },
+  "student": {
+    "password": "8d969eef6ecad3c29a3a629280e686cff8ca7ea3e3e5b35a18bcf72e7f4915be",
+    "role": "viewer"
+  }
+}
+
+
